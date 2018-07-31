@@ -1,0 +1,33 @@
+# Brazilian Portuguese translation for openerp-mgmtsystem
+# Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
+# This file is distributed under the same license as the openerp-mgmtsystem package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: openerp-mgmtsystem\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-02-22 20:40+0000\n"
+"PO-Revision-Date: 2018-07-30 18:20+0100\n"
+"Last-Translator: Pedro Castro Silva <pedrocs@exo.pt>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-04-24 06:29+0000\n"
+"X-Generator: Poedit 2.0.8\n"
+"Language: pt\n"
+
+#. module: document_page_environment_manual
+#: model:ir.module.module,shortdesc:document_page_environment_manual.module_meta_information
+msgid "Document Management - Wiki - Environment Manual"
+msgstr "Gestão Documental - Wiki - Manual do Ambiente"
+
+#. module: document_page_environment_manual
+#: model:ir.module.module,description:document_page_environment_manual.module_meta_information
+msgid ""
+"Environment Manual Template\n"
+"    "
+msgstr ""
+"Modelo de Manual do Ambiente\n"
+"    "
