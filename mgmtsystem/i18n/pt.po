@@ -3,22 +3,21 @@
 # * mgmtsystem
 #
 # Translators:
-# OCA Transbot <transbot@odoo-community.org>, 2018
-# Rodrigo de Almeida Sottomaior Macedo <rmsolucoeseminformatic4@gmail.com>, 2018
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: management-system (9.0)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-15 18:09+0000\n"
-"PO-Revision-Date: 2018-07-31 10:29+0100\n"
-"Last-Translator: Pedro Castro Silva <pedrocs@exo.pt>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2016-08-07 06:43+0000\n"
+"PO-Revision-Date: 2018-12-15 21:58+0000\n"
+"Last-Translator: alvarorib <alvaro.ribeiro@exo.pt>\n"
+"Language-Team: Portuguese (http://www.transifex.com/oca/"
+"OCA-management-system-9-0/language/pt/)\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 2.0.6\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 3.3\n"
 
 #. module: mgmtsystem
 #: model:ir.model.fields,field_description:mgmtsystem.field_mgmtsystem_config_settings_module_mgmtsystem_action
@@ -45,7 +44,7 @@ msgstr "Aplicar"
 #. module: mgmtsystem
 #: model:res.groups,name:mgmtsystem.group_mgmtsystem_user_manager
 msgid "Approving User"
-msgstr "Utilizador que Aprova"
+msgstr "Aprovar o Utilizador"
 
 #. module: mgmtsystem
 #: model:res.groups,name:mgmtsystem.group_mgmtsystem_auditor
@@ -99,7 +98,7 @@ msgstr "Criado em"
 #: model:ir.model.fields,field_description:mgmtsystem.field_mgmtsystem_config_settings_display_name
 #: model:ir.model.fields,field_description:mgmtsystem.field_mgmtsystem_system_display_name
 msgid "Display Name"
-msgstr "Mostrar nome"
+msgstr "Exibir nome"
 
 #. module: mgmtsystem
 #: model:ir.model.fields,field_description:mgmtsystem.field_mgmtsystem_config_settings_module_document_page_approval
@@ -135,7 +134,7 @@ msgstr "Eventos temidos"
 #. module: mgmtsystem
 #: model:ir.model.fields,field_description:mgmtsystem.field_mgmtsystem_config_settings_module_mgmtsystem_hazard
 msgid "Hazards"
-msgstr "Riscos"
+msgstr "Perigos"
 
 #. module: mgmtsystem
 #: model:ir.model.fields,field_description:mgmtsystem.field_mgmtsystem_config_settings_module_mgmtsystem_health_safety_manual
@@ -151,7 +150,7 @@ msgstr "Higiene e Segurança (OHSAS 18001)"
 #: model:ir.model.fields,field_description:mgmtsystem.field_mgmtsystem_config_settings_id
 #: model:ir.model.fields,field_description:mgmtsystem.field_mgmtsystem_system_id
 msgid "ID"
-msgstr "Identificação"
+msgstr "ID"
 
 #. module: mgmtsystem
 #: model:ir.model.fields,field_description:mgmtsystem.field_mgmtsystem_config_settings_module_mgmtsystem_information_security
@@ -167,19 +166,19 @@ msgstr "Modelo de Manual de Segurança da Informação baseado na norma ISO 2700
 #: model:ir.model.fields,field_description:mgmtsystem.field_mgmtsystem_config_settings___last_update
 #: model:ir.model.fields,field_description:mgmtsystem.field_mgmtsystem_system___last_update
 msgid "Last Modified on"
-msgstr "Modificada pela última vez"
+msgstr "Modificado pela última vez em"
 
 #. module: mgmtsystem
 #: model:ir.model.fields,field_description:mgmtsystem.field_mgmtsystem_config_settings_write_uid
 #: model:ir.model.fields,field_description:mgmtsystem.field_mgmtsystem_system_write_uid
 msgid "Last Updated by"
-msgstr "Última atualização por"
+msgstr "Atualizado pela última vez por"
 
 #. module: mgmtsystem
 #: model:ir.model.fields,field_description:mgmtsystem.field_mgmtsystem_config_settings_write_date
 #: model:ir.model.fields,field_description:mgmtsystem.field_mgmtsystem_system_write_date
 msgid "Last Updated on"
-msgstr "Última atualização em"
+msgstr "Atualizado pela última vez em"
 
 #. module: mgmtsystem
 #: model:ir.module.category,description:mgmtsystem.module_category_management_system
@@ -196,14 +195,14 @@ msgstr ""
 #: model:ir.ui.menu,name:mgmtsystem.menu_mgmtsystem_root
 #: model:ir.ui.view,arch_db:mgmtsystem.system_form
 msgid "Management System"
-msgstr "Sistema de Gestão"
+msgstr "Sistema de gestão"
 
 #. module: mgmtsystem
 #: model:ir.actions.act_window,name:mgmtsystem.system_action
 #: model:ir.ui.view,arch_db:mgmtsystem.system_tree
 #: model:ir.ui.view,arch_db:mgmtsystem.view_mgmtsystem_configuration
 msgid "Management Systems"
-msgstr "Sistemas de Gestão"
+msgstr "Sistemas de gestão"
 
 #. module: mgmtsystem
 #: model:res.groups,name:mgmtsystem.group_mgmtsystem_manager
@@ -252,7 +251,7 @@ msgstr "Módulo de utilizador com acesso geral de leitura e escrita."
 #. module: mgmtsystem
 #: model:ir.model.fields,field_description:mgmtsystem.field_mgmtsystem_config_settings_module_mgmtsystem_nonconformity
 msgid "Nonconformities"
-msgstr "Não Conformidades"
+msgstr "Não conformidades"
 
 #. module: mgmtsystem
 #: model:ir.model.fields,field_description:mgmtsystem.field_mgmtsystem_config_settings_module_mgmtsystem_procedure
@@ -265,7 +264,7 @@ msgid ""
 "Provide Environmental Aspect category.\n"
 "- This installs the module mgmtsystem_environmental_aspect."
 msgstr ""
-"Fornecer a categoria Aspeto Ambiental.\n"
+"Forneça a categoria Aspeto Ambiental.\n"
 "- Instala o módulo mgmtsystem_environmental_aspect."
 
 #. module: mgmtsystem
@@ -274,7 +273,7 @@ msgid ""
 "Provide Feared Events.\n"
 "- This installs the module mgmtsystem_security_event."
 msgstr ""
-"Fornecer Eventos Temidos.\n"
+"Forneça Eventos Temidos.\n"
 "- Instala o módulo mgmtsystem_security_event."
 
 #. module: mgmtsystem
@@ -283,8 +282,8 @@ msgid ""
 "Provide Hazards.\n"
 "- This installs the module mgmtsystem_hazard."
 msgstr ""
-"Fornecer Riscos.\n"
-"- Instala o módulo mgmtsystem_hazard. "
+"Forneça Riscos.\n"
+"- Instala o módulo mgmtsystem_hazard."
 
 #. module: mgmtsystem
 #: model:ir.model.fields,help:mgmtsystem.field_mgmtsystem_config_settings_module_mgmtsystem_health_safety_manual
@@ -292,7 +291,7 @@ msgid ""
 "Provide a health and safety manual template.\n"
 "- This installs the module mgmtsystem_health_safety_manual."
 msgstr ""
-"Fornecer um modelo manual de saúde e segurança.\n"
+"Forneça um modelo manual de saúde e segurança.\n"
 "- Instala o módulo mgmtsystem_health_safety_manual."
 
 #. module: mgmtsystem
@@ -301,7 +300,7 @@ msgid ""
 "Provide a quality manual template.\n"
 "- This installs the module mgmtsystem_quality_manual."
 msgstr ""
-"Fornecer um modelo de manual da qualidade.\n"
+"Forneça um modelo de manual da qualidade.\n"
 "- Instala o módulo mgmtsystem_quality_manual."
 
 #. module: mgmtsystem
@@ -310,7 +309,7 @@ msgid ""
 "Provide actions and improvement opportunities tools.\n"
 "-This installs the module mgmtsystem_action."
 msgstr ""
-"Fornecer ações e ferramentas de oportunidades de melhoria.\n"
+"Forneça ações e ferramentas de oportunidades de melhoria.\n"
 "- Instala o módulo mgmtsystem_action."
 
 #. module: mgmtsystem
@@ -319,7 +318,7 @@ msgid ""
 "Provide an environment manual template.\n"
 "- This installs the module mgmtsystem_environment_manual."
 msgstr ""
-"Fornecer um modelo manual do ambiente.\n"
+"Forneça um modelo manual do ambiente.\n"
 "- Instala o módulo mgmtsystem_environment_manual."
 
 #. module: mgmtsystem
@@ -328,7 +327,7 @@ msgid ""
 "Provide an information security manual.\n"
 "- This installs the module information_security_manual."
 msgstr ""
-"Fornecer um manual de segurança da informação.\n"
+"Forneça um manual de segurança da informação.\n"
 "- Instala o módulo information_security_manual."
 
 #. module: mgmtsystem
@@ -337,7 +336,7 @@ msgid ""
 "Provide audit tools.\n"
 "-This installs the module mgmtsystem_audit."
 msgstr ""
-"Fornecer ferramentas de auditoria.\n"
+"Forneça ferramentas de auditoria.\n"
 "- Instala o módulo mgmtsystem_audit."
 
 #. module: mgmtsystem
@@ -346,7 +345,7 @@ msgid ""
 "Provide claim tools.\n"
 "-This installs the module mgmtsystem_claim."
 msgstr ""
-"Fornecer ferramentas para reclamações.\n"
+"Forneça ferramentas para reclamações.\n"
 "- Instala o módulo mgmtsystem_claim."
 
 #. module: mgmtsystem
@@ -355,7 +354,7 @@ msgid ""
 "Provide document approval and history. \n"
 "-This installs the module document_page_approval."
 msgstr ""
-"Fornecer aprovação e histórico do documento.\n"
+"Forneça aprovação e histórico do documento.\n"
 "- Instala o módulo document_page_approval."
 
 #. module: mgmtsystem
@@ -364,7 +363,7 @@ msgid ""
 "Provide environment management tools.\n"
 "-This installs the module mgmtsystem_environment."
 msgstr ""
-"Fornecer ferramentas de gestão de ambiente.\n"
+"Forneça ferramentas de gestão de ambiente.\n"
 "- Instala o módulo mgmtsystem_environment."
 
 #. module: mgmtsystem
@@ -373,7 +372,7 @@ msgid ""
 "Provide health and safety management tools.\n"
 "-This installs the module mgmtsystem_health_safety."
 msgstr ""
-"Fornecer ferramentas de gestão de saúde e segurança.\n"
+"Forneça ferramentas de gestão de saúde e segurança.\n"
 "- Instala o módulo mgmtsystem_health_safety."
 
 #. module: mgmtsystem
@@ -382,7 +381,7 @@ msgid ""
 "Provide information security tools.\n"
 "-This installs the module mgmtsystem_information_security."
 msgstr ""
-"Fornecer ferramentas de segurança da informação.\n"
+"Forneça ferramentas de segurança da informação.\n"
 "- Instala o módulo mgmtsystem_information_security."
 
 #. module: mgmtsystem
@@ -391,7 +390,7 @@ msgid ""
 "Provide non conformity tools.\n"
 "-This installs the module mgmtsystem_nonconformity."
 msgstr ""
-"Fornecer ferramentas de não conformidade.\n"
+"Forneça ferramentas de não conformidade.\n"
 "-Instala o módulo mgmtsystem_nonconformity."
 
 #. module: mgmtsystem
@@ -409,7 +408,7 @@ msgid ""
 "Provide quality management tools.\n"
 "-This installs the module mgmtsystem_quality."
 msgstr ""
-"Fornecer ferramentas de gestão da qualidade.\n"
+"Forneça ferramentas de gestão da qualidade.\n"
 "- Instala o módulo mgmtsystem_quality.."
 
 #. module: mgmtsystem
@@ -418,7 +417,7 @@ msgid ""
 "Provide review tools.\n"
 "-This installs the module mgmtsystem_review."
 msgstr ""
-"Fornecer ferramentas de revisão.\n"
+"Forneça ferramentas de revisão.\n"
 "- Instala o módulo mgmtsystem_review."
 
 #. module: mgmtsystem
@@ -439,7 +438,7 @@ msgstr "Relatórios"
 #. module: mgmtsystem
 #: model:ir.ui.menu,name:mgmtsystem.menu_mgmtsystem_settings
 msgid "Settings"
-msgstr "Configuração"
+msgstr "Configurações"
 
 #. module: mgmtsystem
 #: code:addons/mgmtsystem/models/mgmtsystem_system.py:15
@@ -472,7 +471,7 @@ msgstr "Espectador"
 #. module: mgmtsystem
 #: model:ir.model,name:mgmtsystem.model_mgmtsystem_config_settings
 msgid "mgmtsystem.config.settings"
-msgstr ""
+msgstr "mgmtsystem.config.settings"
 
 #. module: mgmtsystem
 #: model:ir.ui.view,arch_db:mgmtsystem.view_mgmtsystem_configuration
